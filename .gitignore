@@ -5,3 +5,4 @@ __pycache__/
 basi_nn_iris_model.pt
 data/
 datasets/
+cnn_data/
